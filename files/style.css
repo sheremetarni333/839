@@ -522,29 +522,6 @@ h2.title-mb-10p {
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
 }
 
-.action.action-1 {
-    background-image: url(../images/tesla-action.png);
-}
-
-.action.action-2 {
-    background-image: url(../images/apple-action.png);
-}
-
-.action.action-3 {
-    background-image: url(../images/amazon-action.png);
-}
-
-.action.action-4 {
-    background-image: url(../images/microsoft-action.png);
-}
-
-.action.action-5 {
-    background-image: url(../images/nvidia-action.png);
-}
-
-.action.action-6 {
-    background-image: url(../images/facebook-action.png);
-}
 
 .actions-wrapper .action p {
     font-family: "Lato", sans-serif;
